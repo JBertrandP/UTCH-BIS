@@ -1,0 +1,46 @@
+/* Estilos generales para el cuerpo de la página */
+body {
+    background-image: url('../img/fondo.png'); /* Ruta a la imagen de fondo */
+    background-size: cover; /* Ajusta la imagen para cubrir toda la página */
+    background-position: center; /* Centra la imagen */
+    background-repeat: no-repeat; /* Evita que la imagen se repita */
+    background-attachment: fixed; /* Fija la imagen para que no se desplace con el contenido */
+    font-family: Arial, sans-serif; /* Fuente predeterminada */
+    color: #fff; /* Color del texto*/
+    margin: 0;
+    padding: 0; 
+}
+
+/* Estilos para el contenedor principal */
+.container {
+    background-color: rgba(115, 159, 248, 0.7); /* Fondo semi-transparente para mejorar la legibilidad */
+    padding: 20px;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+
+/* Estilos para la tabla */
+.table {
+    background-color: rgba(255, 255, 255, 0.8); /* Fondo semi-transparente para la tabla */
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+/* Estilos para los botones */
+.btn {
+    margin: 5px;
+}
+
+/* Estilos para los modales */
+.modal-content {
+    background-color: rgba(0, 0, 0, 0.9); /* Fondo oscuro para los modales */
+    color: #fff; /* Color del texto en los modales */
+}
+
+/* Estilos para los reproductores de audio y video */
+audio,
+video {
+    width: 100%;
+    max-width: 300px;
+    margin-top: 10px;
+}
