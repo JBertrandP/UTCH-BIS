@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Travel Recommendation</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
+</head>
+<body>
+    <!-- Contenedor principal -->
+    <div class="container">
+        <!-- Header con logo y título -->
+        <header>
+            <img src="logo.png" alt="Travel Recommendation Logo" id="logo">
+            <h1>SONIC SKYLINE</h1>
+        </header>
+
+        <!-- Sección del formulario de búsqueda -->
+        <main>
+            <form id="search-form">
+                <div class="form-group">
+                    <label for="destino">🌍 Selecciona un destino</label>
+                    <select id="destino" aria-label="Selecciona un destino">
+                        <option value="" disabled selected>Elige tu destino</option>
+                        <option value="paris">París</option>
+                        <option value="hongkong">Hong Kong</option>
+                        <option value="tokyo">Tokio</option>
+                        <option value="cancun">Cancún</option>
+                        <option value="amsterdam">Ámsterdam</option>
+                    </select>
+                </div>
+
+                <div class="form-group">
+                    <label for="interes">🎭 Selecciona tu interés</label>
+                    <select id="interes" aria-label="Selecciona tu interés">
+                        <option value="" disabled selected>Elige un interés</option>
+                    </select>
+                </div>
+
+                <div class="form-group">
+                    <label for="presupuesto">💰 Presupuesto</label>
+                    <select id="presupuesto" aria-label="Selecciona tu presupuesto">
+                        <option value="" disabled selected>Elige tu presupuesto</option>
+                        <option value="bajo">Bajo</option>
+                        <option value="medio">Medio</option>
+                        <option value="alto">Alto</option>
+                    </select>
+                </div>
+
+                <div class="form-group">
+                    <label for="clima">☀️ Clima</label>
+                    <select id="clima" aria-label="Selecciona el clima preferido">
+                        <option value="" disabled selected>Elige el clima</option>
+                        <option value="calido">Cálido</option>
+                        <option value="frio">Frío</option>
+                        <option value="templado">Templado</option>
+                    </select>
+                </div>
+
+                <div class="form-group">
+                    <label for="epoca">📅 Época del año</label>
+                    <select id="epoca" aria-label="Selecciona la época del año">
+                        <option value="" disabled selected>Elige la época</option>
+                        <option value="primavera">Primavera</option>
+                        <option value="verano">Verano</option>
+                        <option value="otono">Otoño</option>
+                        <option value="invierno">Invierno</option>
+                    </select>
+                </div>
+
+                <button type="submit" id="buscar-btn">🔍 Buscar Destino</button>
+            </form>
+
+            <!-- Resultados -->
+            <section id="resultados">
+                <h2>Resultados</h2>
+
+                <!-- Intereses -->
+                <div class="section-box">
+                    <h3>🎯 Intereses</h3>
+                    <ul id="intereses"></ul>
+                </div>
+
+                <!-- Galería de imágenes -->
+                <div class="section-box">
+                    <h3>📷 Imágenes</h3>
+                    <div id="imagenes" class="galeria"></div>
+                </div>
+
+                <!-- Recomendaciones -->
+                <section id="recomendaciones">
+                    <h2>🌟 Recomendaciones de Viaje</h2>
+                    <ul id="lista-recomendaciones"></ul>
+                </section>
+                
+                <!-- Mapa -->
+                <div class="section-box">
+                    <h3>🗺️ Ubicación en el Mapa</h3>
+                    <div id="map"></div>
+                </div>
+            </section>
+        </main>
+
+        <!-- Footer -->
+        <footer>
+            <p>&copy; 2025 Travel Recommendation | Todos los derechos reservados</p>
+        </footer>
+    </div>
+
+    <!-- Scripts -->
+    <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>
