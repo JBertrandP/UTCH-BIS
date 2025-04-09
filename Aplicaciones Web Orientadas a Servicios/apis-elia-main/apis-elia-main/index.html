@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>PetCare Hub</title>
+  <link rel="stylesheet" href="style.css">
+
+  <!-- Google Maps API Script -->
+  <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDH9RPiXNwjyevDGDnQR2GICH_bBS7XdPo&callback=initMap" 
+  async defer></script>
+</head>
+
+<body>
+  <header>
+    <h1>PetCare Hub</h1>
+    <nav>
+      <ul>
+        <li><a href="#home">Inicio</a></li>
+        <li><a href="#search">Buscar Mascotas</a></li>
+        <li><a href="#vets">Veterinarios</a></li>
+        <li><a href="#health-tips">Consejos</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <div class="hero">
+    <h1>Bienvenido a PetCare Hub</h1>
+    <p>Tu compañero ideal para el cuidado de tus mascotas</p>
+  </div>
+
+  <div id="search" class="container">
+    <div class="pet-search">
+      <h2>Busca la raza de tu mascota</h2>
+      <input type="text" placeholder="Buscar raza de perro o gato" id="breed-search">
+      <button onclick="searchPets()">Buscar</button>
+    </div>
+  </div>
+
+  <div id="vets" class="container">
+    <div class="chatbot">
+      <h2>Consejos sobre el cuidado de tu mascota</h2>
+      <textarea placeholder="Escribe tu pregunta aquí..." id="chat-input"></textarea>
+      <button onclick="getChatbotResponse()">Enviar</button>
+    </div>
+  </div>
+
+  <div id="map" class="container">
+    <!-- Aquí se cargará el mapa de Google Maps -->
+  </div>
+
+  
+
+  <script>
+    // Simulación de búsqueda de mascotas
+    function searchPets() {
+      const breed = document.getElementById('breed-search').value;
+      alert(`Buscando la raza de mascota: ${breed}`);
+    }
+
+    // Función del chatbot
+    async function getChatbotResponse() {
+      const message = document.getElementById('chat-input').value;
+      alert(`Consultando al chatbot: ${message}`);
+      // Aquí se puede integrar OpenAI o un chatbot real
+    }
+  </script>
+
+  <!-- Vincular el archivo map.js -->
+  <script src="maps.js"></script>
+
+</body>
+
+</html>

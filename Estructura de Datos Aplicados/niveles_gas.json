@@ -1,0 +1,94 @@
+{
+    "niveles_gas": [
+        {
+            "nivel": "Terrícola Base",
+            "porcentaje": 5,
+            "multiplicador": 1,
+            "descripcion": "Este tanque no puede ni calentar agua para un ramen instantáneo. Un Saibaman podría humillarte."
+        },
+        {
+            "nivel": "Kaioken x2",
+            "porcentaje": 10,
+            "multiplicador": 2,
+            "descripcion": "El tanque empieza a brillar rojo, pero cuidado, se está consumiendo rápido. Ahora puedes ganarle a Nappa si te esfuerzas."
+        },
+        {
+            "nivel": "Kaioken x20",
+            "porcentaje": 20,
+            "multiplicador": 20,
+            "descripcion": "El tanque está forzando su poder al límite. Ya puedes darle una pelea decente a Vegeta en su primer combate en la Tierra."
+        },
+        {
+            "nivel": "Super Saiyajin",
+            "porcentaje": 50,
+            "multiplicador": 50,
+            "descripcion": "Ahora puedes romperle la madre a Freezer en su forma final. Tu cocina está dorada y lista para la batalla."
+        },
+        {
+            "nivel": "Super Saiyajin 2",
+            "porcentaje": 100,
+            "multiplicador": 100,
+            "descripcion": "Tu tanque ahora libera electricidad. Puedes destruir a Cell Perfecto sin despeinarte."
+        },
+        {
+            "nivel": "Super Saiyajin 3",
+            "porcentaje": 400,
+            "multiplicador": 400,
+            "descripcion": "Tu tanque no tiene cejas, pero el poder es abrumador. Ahora puedes mandarle una paliza a Majin Buu gordo sin problemas."
+        },
+        {
+            "nivel": "Tanque Destruido",
+            "porcentaje": 0,
+            "multiplicador": 0,
+            "descripcion": "No queda gas... ni esperanza. Incluso Mr. Satan te podría ganar en este estado. ¡Corre a rellenarlo!"
+        },
+        {
+            "nivel": "Super Saiyajin Dios",
+            "porcentaje": 1000,
+            "multiplicador": 1000,
+            "descripcion": "El tanque ahora brilla con un aura rojiza divina. Puedes darle batalla a Bills, pero si no administras bien el gas, te quedarás sin él en un instante."
+        },
+        {
+            "nivel": "Super Saiyajin Blue",
+            "porcentaje": 50000,
+            "multiplicador": 50000,
+            "descripcion": "El gas ha alcanzado un equilibrio entre poder y control. Ahora puedes pelear contra Golden Freezer y salir victorioso."
+        },
+        {
+            "nivel": "Super Saiyajin Blue Kaioken x10",
+            "porcentaje": 500000,
+            "multiplicador": 500000,
+            "descripcion": "El tanque está sobrecargado con un resplandor rojo y azul. Puedes plantarle cara a Jiren en sus niveles iniciales, pero el consumo de gas es una locura."
+        },
+        {
+            "nivel": "Super Saiyajin Blue Kaioken x20",
+            "porcentaje": 1000000,
+            "multiplicador": 1000000,
+            "descripcion": "Tu tanque está en su límite absoluto. Ahora puedes pelear contra Jiren con un poco más de esperanza, pero si lo usas demasiado tiempo, todo explotará."
+        },
+        {
+            "nivel": "Ultra Instinto Sign",
+            "porcentaje": 5000000,
+            "multiplicador": 5000000,
+            "descripcion": "Tu tanque de gas se mueve por sí solo. Puedes esquivar los golpes de Jiren sin siquiera pensarlo, pero mantener este nivel gasta gas a lo loco."
+        },
+        {
+            "nivel": "Ultra Instinto Perfecto",
+            "porcentaje": 9999999,
+            "multiplicador": 9999999,
+            "descripcion": "El gas fluye con perfección absoluta. No hay desperdicio, la combustión es impecable y ahora puedes darle batalla a los Ángeles e incluso a Bills."
+        },
+        {
+            "nivel": "Verdadero Ultra Instinto",
+            "porcentaje": 10000000,
+            "multiplicador": 10000000,
+            "descripcion": "Has dejado de pensar y el gas responde solo. Ahora puedes hacerle frente a Black Freezer y entrenar con Daishinkan sin miedo."
+        },
+        {
+            "nivel": "Tanque de Gas Omniversal",
+            "porcentaje": 999999999,
+            "multiplicador": "Infinito",
+            "descripcion": "Has alcanzado el estado de los mismísimos Dioses de la Creación. Ni Zeno-sama podría borrar tu tanque. La llama es eterna y la cocina es infinita."
+        }
+    ]
+}
