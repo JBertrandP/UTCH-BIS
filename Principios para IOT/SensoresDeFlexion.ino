@@ -26,7 +26,7 @@ void setup() {
     WiFi.begin(ssid, password);
     while (WiFi.status() != WL_CONNECTED) { delay(500); Serial.print("."); }
     Serial.println("\nWi-Fi conectado!");
-    if (!mpu.begin()) { Serial.println("🚨 Error MPU6050"); while (1); }
+    if (!mpu.begin()) { Serial.println("Error MPU6050"); while (1); }
     Serial.println("MPU6050 inicializado.");
     client.onEvent(onWebsocketEvent);
     
