@@ -1,0 +1,184 @@
+[{
+  "_id": {
+    "$oid": "6838c0e1ca7017d08956bbaa"
+  },
+  "nombre": "Cuna",
+  "descripción": "Una cuna antigua hecha de madera oscura, tallada a mano por José Arcadio Buendía. Fue utilizada por varias generaciones de la familia Buendía, conservando marcas del paso del tiempo y pequeñas reparaciones hechas por Úrsula.",
+  "dueño": {
+    "$oid": "682cc85d63ff78cd8d87ac49"
+  }
+},
+{
+  "_id": {
+    "$oid": "682cbdeb63ff78cd8d87ac18"
+  },
+  "nombre": "Cama de Úrsula",
+  "descripción": "Donde Úrsula Iguarán pasa sus últimos años, ciega pero lúcida.",
+  "dueño": {
+    "$oid": "682cc85d63ff78cd8d87ac49"
+  }
+},
+{
+  "_id": {
+    "$oid": "682cbdeb63ff78cd8d87ac1e"
+  },
+  "nombre": "Tren",
+  "descripción": "Llegó a Macondo con la compañía bananera."
+},
+{
+  "_id": {
+    "$oid": "6838c0e1ca7017d08956bbab"
+  },
+  "nombre": "Bastón",
+  "descripción": "Bastón sencillo pero resistente, hecho de madera de almendro. Úrsula lo usó en su vejez cuando la ceguera comenzó a afectarla, convirtiéndose en símbolo de su fuerza y persistencia.",
+  "dueño": {
+    "$oid": "682cc85d63ff78cd8d87ac49"
+  }
+},
+{
+  "_id": {
+    "$oid": "6846536a66b47792475d6329"
+  },
+  "nombre": "Mochila de herramientas",
+  "dueño": {
+    "$oid": "682cc85d63ff78cd8d87ac52"
+  }
+},
+{
+  "_id": {
+    "$oid": "6846536a66b47792475d632a"
+  },
+  "nombre": "Pececitos de oro",
+  "dueño": {
+    "$oid": "682cc85d63ff78cd8d87ac4b"
+  }
+},
+{
+  "_id": {
+    "$oid": "6846536a66b47792475d632b"
+  },
+  "nombre": "Sábanas bordadas",
+  "dueño": {
+    "$oid": "682cc85d63ff78cd8d87ac54"
+  }
+},
+{
+  "_id": {
+    "$oid": "6846536a66b47792475d6327"
+  },
+  "nombre": "Maletas de cuero",
+  "descripción": "Usadas para enviar a Meme a un convento",
+  "dueño": {
+    "$oid": "682cc85d63ff78cd8d87ac53"
+  }
+},
+{
+  "_id": {
+    "$oid": "6846536a66b47792475d632c"
+  },
+  "nombre": "Clavicordio",
+  "descripción": "Instrumento de Meme",
+  "dueño": {
+    "$oid": "682cc85d63ff78cd8d87ac55"
+  }
+},
+{
+  "_id": {
+    "$oid": "6846536a66b47792475d6328"
+  },
+  "nombre": "Llaves del armario familiar",
+  "descripción": "Llaves que ahora estan bajo el control de Fernanda",
+  "dueño": {
+    "$oid": "682cc85d63ff78cd8d87ac54"
+  }
+},
+{
+  "_id": {
+    "$oid": "6846536a66b47792475d632d"
+  },
+  "nombre": "Ropa de cama lujosa",
+  "dueño": {
+    "$oid": "682cc85d63ff78cd8d87ac55"
+  }
+},
+{
+  "_id": {
+    "$oid": "6846572666b47792475d632f"
+  },
+  "nombre": "Escalera de madera",
+  "descripción": "Usada por Mauricio para entrar a la casa de los Buendía",
+  "dueño": {
+    "$oid": "682cc85d63ff78cd8d87ac56"
+  }
+},
+{
+  "_id": {
+    "$oid": "6846572666b47792475d6330"
+  },
+  "nombre": "Crucifijo",
+  "dueño": {
+    "$oid": "682cc85d63ff78cd8d87ac54"
+  }
+},
+{
+  "_id": {
+    "$oid": "6846572666b47792475d6331"
+  },
+  "nombre": "Silbato de líder sindical",
+  "dueño": {
+    "$oid": "682cc85d63ff78cd8d87ac52"
+  }
+},
+{
+  "_id": {
+    "$oid": "6846572666b47792475d632e"
+  },
+  "nombre": "Gafas de seguridad",
+  "dueño": {
+    "$oid": "682cc85d63ff78cd8d87ac56"
+  }
+},
+{
+  "_id": {
+    "$oid": "6846590c66b47792475d6334"
+  },
+  "nombre": "Tejas rotas y cubetas",
+  "descripción": "Son usadas para recoger el agua"
+},
+{
+  "_id": {
+    "$oid": "6846590c66b47792475d6335"
+  },
+  "nombre": "Muñecos viejos de niños",
+  "descripción": "Úrsula suele hablar con ellos"
+},
+{
+  "_id": {
+    "$oid": "6846590c66b47792475d6333"
+  },
+  "nombre": "Vagón de carga",
+  "descripción": "Donde amontonan los cadáveres"
+},
+{
+  "_id": {
+    "$oid": "6846590c66b47792475d6336"
+  },
+  "nombre": "Rieles oxidados del tren bananero"
+},
+{
+  "_id": {
+    "$oid": "6846590c66b47792475d6337"
+  },
+  "nombre": "Lotería/rifas",
+  "descripción": "Petra las organiza",
+  "dueño": {
+    "$oid": "682dec80473716f4b42cc07c"
+  }
+},
+{
+  "_id": {
+    "$oid": "68486bfcbe8faae2c217f127"
+  },
+  "nombre": "Pergaminos de Melquíades",
+  "descripción": "Manuscritos cifrados que narran la historia de los Buendía y Macondo."
+}]

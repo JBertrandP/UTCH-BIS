@@ -1,0 +1,44 @@
+[{
+  "_id": {
+    "$oid": "68475832980f14668a862476"
+  },
+  "sueño": "Sueño de Fernanda del Carpio",
+  "personaje": {
+    "$oid": "682cc85d63ff78cd8d87ac54"
+  },
+  "descripción": "Sueña con castillos, sirvientes y ceremonias reales.",
+  "significado": "Representa su idealización de la nobleza y su desconexión con la realidad de Macondo. También muestra su deseo de control, moral y rigidez aristocrática."
+},
+{
+  "_id": {
+    "$oid": "68475832980f14668a862477"
+  },
+  "sueño": "Sueño de Aureliano Segundo con Úrsula",
+  "personaje": {
+    "$oid": "682cc85d63ff78cd8d87ac53"
+  },
+  "descripción": "Sueña con Úrsula guiándolo a través de un Macondo oscuro y desordenado.",
+  "significado": "Representa su sentimiento de pérdida y desorientación moral. Úrsula simboliza la conciencia familiar."
+},
+{
+  "_id": {
+    "$oid": "68475832980f14668a862478"
+  },
+  "sueño": "Sueño de José Arcadio Segundo con la masacre",
+  "personaje": {
+    "$oid": "682cc85d63ff78cd8d87ac52"
+  },
+  "descripción": "Sueña que miles de cuerpos son apilados en el tren tras la masacre.",
+  "significado": "Aunque es un hecho real en la historia, lo vive como si fuera un sueño o pesadilla, reflejando el trauma, la represión estatal y el esfuerzo por negar la memoria colectiva."
+},
+{
+  "_id": {
+    "$oid": "68475832980f14668a862479"
+  },
+  "sueño": "Sueño de Aureliano Segundo con el diluvio",
+  "personaje": {
+    "$oid": "682cc85d63ff78cd8d87ac53"
+  },
+  "descripción": "Sueña que Macondo se inunda y se convierte en un pantano.",
+  "significado": "Anticipa el diluvio que cae sobre el pueblo. Simboliza la decadencia, el estancamiento del progreso y el castigo divino por los excesos cometidos."
+}]

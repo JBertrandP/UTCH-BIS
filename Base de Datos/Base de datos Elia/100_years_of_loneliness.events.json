@@ -1,0 +1,389 @@
+[{
+  "_id": {
+    "$oid": "68486289cdf6b13ed4947436"
+  },
+  "evento": "Pérdida de visión de Úrsula",
+  "descripción": "Úrsula pierde la vista con la edad, pero lo oculta, guiándose por memoria y táctilmente.",
+  "personajes": {
+    "$oid": "682cc85d63ff78cd8d87ac49"
+  },
+  "lugar": {
+    "$oid": "682cbd0c63ff78cd8d87ac05"
+  },
+  "objetos": {
+    "$oid": "6838c0e1ca7017d08956bbab"
+  }
+},
+{
+  "_id": {
+    "$oid": "68486289cdf6b13ed4947437"
+  },
+  "evento": "Partida de José Arcadio y Meme",
+  "descripción": "José Arcadio se va al seminario en Roma; Meme es enviada a estudiar con monjas.",
+  "personajes": [
+    {
+      "$oid": "682cc85d63ff78cd8d87ac57"
+    },
+    {
+      "$oid": "682cc85d63ff78cd8d87ac55"
+    }
+  ],
+  "lugar": {
+    "$oid": "682cbd0c63ff78cd8d87ac08"
+  },
+  "objetos": {
+    "$oid": "6846536a66b47792475d6327"
+  }
+},
+{
+  "_id": {
+    "$oid": "68486289cdf6b13ed4947438"
+  },
+  "evento": "Dominio de Fernanda",
+  "descripción": "Fernanda impone sus normas, desplazando a Úrsula como matriarca.",
+  "personajes": [
+    {
+      "$oid": "682cc85d63ff78cd8d87ac49"
+    },
+    {
+      "$oid": "682cc85d63ff78cd8d87ac54"
+    }
+  ],
+  "lugar": {
+    "$oid": "682cbd0c63ff78cd8d87ac05"
+  },
+  "objetos": {
+    "$oid": "6846536a66b47792475d6328"
+  }
+},
+{
+  "_id": {
+    "$oid": "68486289cdf6b13ed4947439"
+  },
+  "evento": "Expulsión de José Arcadio Segundo",
+  "descripción": "Fernanda lo expulsa por su trabajo en la compañía bananera.",
+  "personajes": [
+    {
+      "$oid": "682cc85d63ff78cd8d87ac54"
+    },
+    {
+      "$oid": "682cc85d63ff78cd8d87ac52"
+    }
+  ],
+  "lugar": {
+    "$oid": "682cbd0c63ff78cd8d87ac05"
+  },
+  "objetos": {
+    "$oid": "6846536a66b47792475d6329"
+  }
+},
+{
+  "_id": {
+    "$oid": "68486504cdf6b13ed494743a"
+  },
+  "evento": "Muerte del Coronel Aureliano Buendía",
+  "descripción": "Muere en soledad, fabricando pececitos hasta el final.",
+  "personajes": {
+    "$oid": "682cc85d63ff78cd8d87ac4b"
+  },
+  "lugar": {
+    "$oid": "68465a5c666eecbcb56ae163"
+  },
+  "objetos": {
+    "$oid": "6846536a66b47792475d632a"
+  }
+},
+{
+  "_id": {
+    "$oid": "68486504cdf6b13ed494743b"
+  },
+  "evento": "Nacimiento de Amaranta Úrsula",
+  "descripción": "Nace la niña mientras Fernanda intenta mantener apariencias nobles.",
+  "personajes": [
+    {
+      "$oid": "682cc85d63ff78cd8d87ac54"
+    },
+    {
+      "$oid": "682cc85d63ff78cd8d87ac53"
+    },
+    {
+      "$oid": "682cc85d63ff78cd8d87ac58"
+    }
+  ],
+  "lugar": {
+    "$oid": "682cbd0c63ff78cd8d87ac05"
+  },
+  "objetos": {
+    "$oid": "6846536a66b47792475d632b"
+  }
+},
+{
+  "_id": {
+    "$oid": "68486504cdf6b13ed494743c"
+  },
+  "evento": "Educación de Meme",
+  "descripción": "Se convierte en excelente clavicordista.",
+  "personajes": [
+    {
+      "$oid": "682cc85d63ff78cd8d87ac55"
+    },
+    {
+      "$oid": "682cc85d63ff78cd8d87ac54"
+    }
+  ],
+  "lugar": {
+    "$oid": "68465a5c666eecbcb56ae164"
+  },
+  "objetos": {
+    "$oid": "6846536a66b47792475d632c"
+  }
+},
+{
+  "_id": {
+    "$oid": "68486504cdf6b13ed494743d"
+  },
+  "evento": "Descubrimiento de la relación de Aureliano Segundo",
+  "descripción": "Meme se entera de la relación extramarital de su padre.",
+  "personajes": [
+    {
+      "$oid": "682cc85d63ff78cd8d87ac55"
+    },
+    {
+      "$oid": "682cc85d63ff78cd8d87ac53"
+    },
+    {
+      "$oid": "682dec80473716f4b42cc07c"
+    }
+  ],
+  "lugar": {
+    "$oid": "68465a5c666eecbcb56ae165"
+  },
+  "objetos": {
+    "$oid": "6846536a66b47792475d632d"
+  }
+},
+{
+  "_id": {
+    "$oid": "6848698ecdf6b13ed4947442"
+  },
+  "evento": "Relación de Meme y Mauricio Babilonia",
+  "descripción": "Se enamoran a escondidas mientras Mauricio trabaja en la compañía.",
+  "personajes": [
+    {
+      "$oid": "682cc85d63ff78cd8d87ac55"
+    },
+    {
+      "$oid": "682cc85d63ff78cd8d87ac56"
+    }
+  ],
+  "lugar": {
+    "$oid": "682cbd0c63ff78cd8d87ac05"
+  },
+  "objetos": {
+    "$oid": "6846572666b47792475d632e"
+  }
+},
+{
+  "_id": {
+    "$oid": "6848698ecdf6b13ed4947443"
+  },
+  "evento": "Tragedia de Mauricio",
+  "descripción": "Al ser descubierto visitando a Meme, el guardia le dispara y lo deja paralítico.",
+  "personajes": [
+    {
+      "$oid": "682cc85d63ff78cd8d87ac56"
+    },
+    {
+      "$oid": "682cc85d63ff78cd8d87ac54"
+    }
+  ],
+  "lugar": {
+    "$oid": "682cbd0c63ff78cd8d87ac05"
+  },
+  "objetos": {
+    "$oid": "6846572666b47792475d632f"
+  }
+},
+{
+  "_id": {
+    "$oid": "6848698ecdf6b13ed4947444"
+  },
+  "evento": "Envío de Meme al convento",
+  "descripción": "Fernanda manda a Meme a Europa sin decirle a nadie, condenándola al silencio.",
+  "personajes": [
+    {
+      "$oid": "682cc85d63ff78cd8d87ac54"
+    },
+    {
+      "$oid": "682cc85d63ff78cd8d87ac55"
+    }
+  ],
+  "lugar": {
+    "$oid": "68465a5c666eecbcb56ae166"
+  },
+  "objetos": {
+    "$oid": "6846572666b47792475d6330"
+  }
+},
+{
+  "_id": {
+    "$oid": "6848698ecdf6b13ed4947445"
+  },
+  "evento": "Nacimiento de Aureliano Babilonia",
+  "descripción": "Fernanda cría en secreto al hijo de Meme y Mauricio como si fuera huérfano.",
+  "personajes": [
+    {
+      "$oid": "682cc85d63ff78cd8d87ac55"
+    },
+    {
+      "$oid": "682cc85d63ff78cd8d87ac54"
+    },
+    {
+      "$oid": "682cc85d63ff78cd8d87ac59"
+    }
+  ],
+  "lugar": {
+    "$oid": "682cbd0c63ff78cd8d87ac05"
+  },
+  "objetos": {
+    "$oid": "6838c0e1ca7017d08956bbaa"
+  }
+},
+{
+  "_id": {
+    "$oid": "68486c14cdf6b13ed4947446"
+  },
+  "evento": "Involucramiento de José Arcadio Segundo en la huelga",
+  "descripción": "Se convierte en uno de los líderes de la huelga de los bananeros.",
+  "personajes": {
+    "$oid": "682cc85d63ff78cd8d87ac52"
+  },
+  "lugar": {
+    "$oid": "682cbd0c63ff78cd8d87ac08"
+  },
+  "objetos": {
+    "$oid": "6846572666b47792475d6331"
+  }
+},
+{
+  "_id": {
+    "$oid": "68486c14cdf6b13ed4947447"
+  },
+  "evento": "Masacre de la compañía bananera",
+  "descripción": "El ejército masacra a miles de huelguistas y niega el hecho.",
+  "personajes": [
+    {
+      "$oid": "682cc85d63ff78cd8d87ac52"
+    },
+    {
+      "$oid": "682de82f473716f4b42cc072"
+    },
+    {
+      "$oid": "682de82f473716f4b42cc074"
+    }
+  ],
+  "lugar": {
+    "$oid": "682cbd0c63ff78cd8d87ac08"
+  },
+  "objetos": {
+    "$oid": "6846590c66b47792475d6333"
+  }
+},
+{
+  "_id": {
+    "$oid": "68486c14cdf6b13ed4947448"
+  },
+  "evento": "Diluvio prolongado",
+  "descripción": "Llueve durante casi cinco años, destruyendo el pueblo y aislando a todos.",
+  "personajes": [
+    {
+      "$oid": "682cc85d63ff78cd8d87ac53"
+    },
+    {
+      "$oid": "682cc85d63ff78cd8d87ac54"
+    },
+    {
+      "$oid": "682cc85d63ff78cd8d87ac52"
+    }
+  ],
+  "lugar": {
+    "$oid": "682cbd0c63ff78cd8d87ac04"
+  },
+  "objetos": {
+    "$oid": "6846590c66b47792475d6334"
+  }
+},
+{
+  "_id": {
+    "$oid": "68486c14cdf6b13ed4947449"
+  },
+  "evento": "Aislamiento de José Arcadio Segundo",
+  "descripción": "Vive encerrado, obsesionado con descifrar los textos del gitano.",
+  "personajes": {
+    "$oid": "682cc85d63ff78cd8d87ac52"
+  },
+  "lugar": {
+    "$oid": "682cbd0c63ff78cd8d87ac0d"
+  },
+  "objetos": {
+    "$oid": "68486bfcbe8faae2c217f127"
+  }
+},
+{
+  "_id": {
+    "$oid": "68486dd2cdf6b13ed494744e"
+  },
+  "evento": "Deterioro de Úrsula",
+  "descripción": "Su mente comienza a confundirse; habla con muertos y juguetes.",
+  "personajes": {
+    "$oid": "682cc85d63ff78cd8d87ac49"
+  },
+  "lugar": {
+    "$oid": "682cbd0c63ff78cd8d87ac05"
+  },
+  "objetos": {
+    "$oid": "6846590c66b47792475d6335"
+  }
+},
+{
+  "_id": {
+    "$oid": "68486dd2cdf6b13ed494744f"
+  },
+  "evento": "Desaparición de la compañía bananera",
+  "descripción": "La compañía desaparece sin dejar rastro, como si nunca hubiera existido.",
+  "personajes": [
+    {
+      "$oid": "682cc85d63ff78cd8d87ac53"
+    },
+    {
+      "$oid": "682cc85d63ff78cd8d87ac54"
+    }
+  ],
+  "lugar": {
+    "$oid": "682cbd0c63ff78cd8d87ac04"
+  },
+  "objetos": {
+    "$oid": "6846590c66b47792475d6336"
+  }
+},
+{
+  "_id": {
+    "$oid": "68486dd2cdf6b13ed4947450"
+  },
+  "evento": "Reaparición de Petra Cotes",
+  "descripción": "Retoma sus negocios mientras ayuda a mantener a la familia Buendía.",
+  "personajes": [
+    {
+      "$oid": "682dec80473716f4b42cc07c"
+    },
+    {
+      "$oid": "682cc85d63ff78cd8d87ac53"
+    }
+  ],
+  "lugar": {
+    "$oid": "68465a5c666eecbcb56ae165"
+  },
+  "objetos": {
+    "$oid": "6846590c66b47792475d6337"
+  }
+}]

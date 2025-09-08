@@ -1,0 +1,59 @@
+[{
+  "_id": {
+    "$oid": "682cbd0c63ff78cd8d87ac04"
+  },
+  "nombre": "Macondo",
+  "descripción": "Pueblo fundado por José Arcadio Buendía, epicentro de la historia."
+},
+{
+  "_id": {
+    "$oid": "682cbd0c63ff78cd8d87ac08"
+  },
+  "nombre": "Estación del tren",
+  "descripción": "Construida durante la llegada de la compañía bananera."
+},
+{
+  "_id": {
+    "$oid": "682cbd0c63ff78cd8d87ac0c"
+  },
+  "nombre": "Plantación bananera",
+  "descripción": "Territorio de la compañía extranjera que explota a los trabajadores."
+},
+{
+  "_id": {
+    "$oid": "682cbd0c63ff78cd8d87ac05"
+  },
+  "nombre": "Casa de los Buendía",
+  "descripción": "Hogar de la familia, testigo de generaciones y eventos sobrenaturales."
+},
+{
+  "_id": {
+    "$oid": "682cbd0c63ff78cd8d87ac0d"
+  },
+  "nombre": "Cuarto de Melquíades",
+  "descripción": "Habitación sellada donde se guardan los pergaminos y objetos místicos."
+},
+{
+  "_id": {
+    "$oid": "68465a5c666eecbcb56ae166"
+  },
+  "nombre": "Convento en Cracovia"
+},
+{
+  "_id": {
+    "$oid": "68465a5c666eecbcb56ae164"
+  },
+  "nombre": "Internado de monjas"
+},
+{
+  "_id": {
+    "$oid": "68465a5c666eecbcb56ae163"
+  },
+  "nombre": "Taller del coronel"
+},
+{
+  "_id": {
+    "$oid": "68465a5c666eecbcb56ae165"
+  },
+  "nombre": "Casa de Petra Cotes"
+}]

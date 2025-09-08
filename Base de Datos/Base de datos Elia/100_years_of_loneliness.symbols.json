@@ -1,0 +1,64 @@
+[{
+  "_id": {
+    "$oid": "68475a5a3ea6c5637f91705d"
+  },
+  "simbolo": "El matrimonio forzado entre Fernanda y Aureliano Segundo",
+  "descripción": "Unión entre dos mundos opuestos (la tradición aristocrática y la vida liberal de los Buendía).",
+  "significado": "Simboliza el choque de clases y valores. También es un símbolo de desarraigo y frustración."
+},
+{
+  "_id": {
+    "$oid": "68475a5a3ea6c5637f91705e"
+  },
+  "simbolo": "El santuario privado de Fernanda",
+  "descripción": "Cuarto cerrado donde hace rituales religiosos y mantiene correspondencia secreta.",
+  "significado": "Refleja la represión religiosa, la rigidez moral y su deseo de imponer su visión del mundo sobre los demás."
+},
+{
+  "_id": {
+    "$oid": "68475a5a3ea6c5637f91705f"
+  },
+  "simbolo": "El auge de la compañía bananera",
+  "descripción": "Explotación y crecimiento económico que llega con los extranjeros.",
+  "significado": "Simboliza el neocolonialismo, la pérdida de la autonomía y el inicio del declive de Macondo."
+},
+{
+  "_id": {
+    "$oid": "68475a5a3ea6c5637f917060"
+  },
+  "simbolo": "Los obreros bananeros",
+  "descripción": "Multitudes que trabajan para la compañía en condiciones injustas.",
+  "significado": "Representan la lucha de clases y el olvido de los orígenes humildes de la familia Buendía."
+},
+{
+  "_id": {
+    "$oid": "68475a5a3ea6c5637f917061"
+  },
+  "simbolo": "El tren cargado de muertos",
+  "descripción": " Medio de transporte que lleva los cuerpos de los obreros asesinados.",
+  "significado": "Simboliza la negación de la verdad histórica, el olvido impuesto por el poder y el silencio colectivo."
+},
+{
+  "_id": {
+    "$oid": "68475d053ea6c5637f917062"
+  },
+  "simbolo": "El silencio oficial tras la masacre",
+  "descripción": "Todos niegan que algo haya pasado.",
+  "significado": "Representa la manipulación de la historia y la construcción de una realidad ficticia por parte del poder."
+},
+{
+  "_id": {
+    "$oid": "68475d053ea6c5637f917063"
+  },
+  "simbolo": "La lluvia interminable",
+  "descripción": "Lluvia que dura casi cinco años.",
+  "significado": "Representa el castigo, la purificación, pero también la parálisis y la melancolía. Es el principio del fin para Macondo."
+},
+{
+  "_id": {
+    "$oid": "68475d053ea6c5637f917064"
+  },
+  "simbolo": "La descomposición de la casa Buendía",
+  "descripción": "La casa se deteriora durante el diluvio.",
+  "significado": "Simboliza la decadencia de la familia y la pérdida de sus fundamentos."
+}]

@@ -1,0 +1,638 @@
+[{
+  "_id": {
+    "$oid": "682cc85d63ff78cd8d87ac48"
+  },
+  "nombre": "José Arcadio Buendía",
+  "generación": 1,
+  "pareja": {
+    "$oid": "682cc85d63ff78cd8d87ac49"
+  },
+  "hijos": [
+    {
+      "$oid": "682cc85d63ff78cd8d87ac4a"
+    },
+    {
+      "$oid": "682cc85d63ff78cd8d87ac4b"
+    },
+    {
+      "$oid": "682cc85d63ff78cd8d87ac4c"
+    },
+    {
+      "$oid": "682cc85d63ff78cd8d87ac4e"
+    }
+  ],
+  "objetos": [
+    {
+      "$oid": "682cbdeb63ff78cd8d87ac16"
+    },
+    {
+      "$oid": "682cbdeb63ff78cd8d87ac19"
+    },
+    {
+      "$oid": "682df5ab473716f4b42cc0bc"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "682cc85d63ff78cd8d87ac49"
+  },
+  "nombre": "Úrsula Iguarán",
+  "generación": 1,
+  "pareja": {
+    "$oid": "682cc85d63ff78cd8d87ac48"
+  },
+  "hijos": [
+    "682cc85d63ff78cd8d87ac4a",
+    "682cc85d63ff78cd8d87ac4b",
+    {
+      "$oid": "682cc85d63ff78cd8d87ac4c"
+    },
+    {
+      "$oid": "682cc85d63ff78cd8d87ac4e"
+    }
+  ],
+  "objetos": [
+    {
+      "$oid": "682cbdeb63ff78cd8d87ac17"
+    },
+    {
+      "$oid": "682cbdeb63ff78cd8d87ac18"
+    },
+    {
+      "$oid": "682df0a3473716f4b42cc098"
+    },
+    {
+      "$oid": "682cbdeb63ff78cd8d87ac1c"
+    },
+    {
+      "$oid": "682df5ab473716f4b42cc0bd"
+    },
+    {
+      "$oid": "6838c0e1ca7017d08956bbaa"
+    },
+    {
+      "$oid": "6838c0e1ca7017d08956bbab"
+    },
+    {
+      "$oid": "6838c0e1ca7017d08956bbac"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "682cc85d63ff78cd8d87ac4a"
+  },
+  "nombre": "José Arcadio (hijo)",
+  "generación": 2,
+  "pareja": {
+    "$oid": "682cc85d63ff78cd8d87ac4e"
+  },
+  "hijos": "682cc85d63ff78cd8d87ac4f"
+},
+{
+  "_id": {
+    "$oid": "682cc85d63ff78cd8d87ac4b"
+  },
+  "nombre": "Coronel Aureliano Buendía",
+  "generación": 2,
+  "pareja": {
+    "$oid": "682cc85d63ff78cd8d87ac4d"
+  },
+  "hijos": {
+    "$oid": "682de82f473716f4b42cc071"
+  },
+  "objetos": {
+    "$oid": "6846536a66b47792475d632a"
+  }
+},
+{
+  "_id": {
+    "$oid": "682cc85d63ff78cd8d87ac4c"
+  },
+  "nombre": "Amaranta",
+  "generación": 2
+},
+{
+  "_id": {
+    "$oid": "682cc85d63ff78cd8d87ac4d"
+  },
+  "nombre": "Remedios Moscote",
+  "generación": 2,
+  "pareja": {
+    "$oid": "682cc85d63ff78cd8d87ac4b"
+  }
+},
+{
+  "_id": {
+    "$oid": "682cc85d63ff78cd8d87ac4e"
+  },
+  "nombre": "Rebeca",
+  "generación": 2,
+  "pareja": "682cc85d63ff78cd8d87ac4a",
+  "hijos": "682cc85d63ff78cd8d87ac4f"
+},
+{
+  "_id": {
+    "$oid": "682cc85d63ff78cd8d87ac4f"
+  },
+  "nombre": "Arcadio",
+  "generación": 3,
+  "pareja": {
+    "$oid": "682cc85d63ff78cd8d87ac50"
+  },
+  "hijos": [
+    {
+      "$oid": "682cc85d63ff78cd8d87ac51"
+    },
+    {
+      "$oid": "682cc85d63ff78cd8d87ac52"
+    },
+    {
+      "$oid": "682cc85d63ff78cd8d87ac53"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "682cc85d63ff78cd8d87ac50"
+  },
+  "nombre": "Santa Sofía de la Piedad",
+  "generación": 3,
+  "pareja": "",
+  "hijos": [
+    {
+      "$oid": "682cc85d63ff78cd8d87ac51"
+    },
+    {
+      "$oid": "682cc85d63ff78cd8d87ac52"
+    },
+    {
+      "$oid": "682cc85d63ff78cd8d87ac53"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "682cc85d63ff78cd8d87ac51"
+  },
+  "nombre": "Remedios la Bella",
+  "generación": 4
+},
+{
+  "_id": {
+    "$oid": "682cc85d63ff78cd8d87ac52"
+  },
+  "nombre": "José Arcadio Segundo",
+  "generación": 4,
+  "objetos": [
+    {
+      "$oid": "6846536a66b47792475d6329"
+    },
+    {
+      "$oid": "6846572666b47792475d6331"
+    }
+  ],
+  "sueños": {
+    "$oid": "68475832980f14668a862478"
+  }
+},
+{
+  "_id": {
+    "$oid": "682cc85d63ff78cd8d87ac53"
+  },
+  "nombre": "Aureliano Segundo",
+  "generación": 4,
+  "pareja": {
+    "$oid": "682cc85d63ff78cd8d87ac54"
+  },
+  "hijos": [
+    {
+      "$oid": "682cc85d63ff78cd8d87ac57"
+    },
+    {
+      "$oid": "682cc85d63ff78cd8d87ac55"
+    },
+    {
+      "$oid": "682cc85d63ff78cd8d87ac58"
+    }
+  ],
+  "objetos": {
+    "$oid": "6846536a66b47792475d6327"
+  },
+  "sueños": [
+    {
+      "$oid": "68475832980f14668a862477"
+    },
+    {
+      "$oid": "68475832980f14668a862479"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "682cc85d63ff78cd8d87ac54"
+  },
+  "nombre": "Fernanda del Carpio",
+  "generación": 4,
+  "pareja": {
+    "$oid": "682cc85d63ff78cd8d87ac53"
+  },
+  "hijos": [
+    {
+      "$oid": "682cc85d63ff78cd8d87ac57"
+    },
+    {
+      "$oid": "682cc85d63ff78cd8d87ac55"
+    },
+    {
+      "$oid": "682cc85d63ff78cd8d87ac58"
+    }
+  ],
+  "objetos": [
+    {
+      "$oid": "6846536a66b47792475d632b"
+    },
+    {
+      "$oid": "6846536a66b47792475d6328"
+    },
+    {
+      "$oid": "6846572666b47792475d6330"
+    }
+  ],
+  "sueños:": {
+    "$oid": "68475832980f14668a862476"
+  }
+},
+{
+  "_id": {
+    "$oid": "682cc85d63ff78cd8d87ac55"
+  },
+  "nombre": "Renata Remedios (Meme)",
+  "generación": 5,
+  "pareja": {
+    "$oid": "682cc85d63ff78cd8d87ac56"
+  },
+  "hijos": {
+    "$oid": "682cc85d63ff78cd8d87ac59"
+  },
+  "objetos": [
+    {
+      "$oid": "6846536a66b47792475d632c"
+    },
+    {
+      "$oid": "6846536a66b47792475d632d"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "682cc85d63ff78cd8d87ac56"
+  },
+  "nombre": "Mauricio Babilonia",
+  "generación": 5,
+  "pareja": {
+    "$oid": "682cc85d63ff78cd8d87ac55"
+  },
+  "hijos": {
+    "$oid": "682cc85d63ff78cd8d87ac59"
+  },
+  "objetos": [
+    {
+      "$oid": "6846572666b47792475d632f"
+    },
+    {
+      "$oid": "6846572666b47792475d632e"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "682cc85d63ff78cd8d87ac57"
+  },
+  "nombre": "José Arcadio (IV)",
+  "generación": 5
+},
+{
+  "_id": {
+    "$oid": "682cc85d63ff78cd8d87ac58"
+  },
+  "nombre": "Amaranta Úrsula",
+  "generación": 5,
+  "pareja": {
+    "$oid": "682dec80473716f4b42cc07e"
+  },
+  "hijos": {
+    "$oid": "682cc85d63ff78cd8d87ac5a"
+  }
+},
+{
+  "_id": {
+    "$oid": "682cc85d63ff78cd8d87ac59"
+  },
+  "nombre": "Aureliano Babilonia",
+  "generación": 6,
+  "pareja": {
+    "$oid": "682cc85d63ff78cd8d87ac58"
+  },
+  "hijos": {
+    "$oid": "682cc85d63ff78cd8d87ac5a"
+  },
+  "objetos": {
+    "$oid": "682cbdeb63ff78cd8d87ac15"
+  }
+},
+{
+  "_id": {
+    "$oid": "682cc85d63ff78cd8d87ac5a"
+  },
+  "nombre": "Aureliano (con cola de cerdo)",
+  "generación": 7,
+  "objetos": {
+    "$oid": "682cbdeb63ff78cd8d87ac20"
+  }
+},
+{
+  "_id": {
+    "$oid": "682cc85d63ff78cd8d87ac5b"
+  },
+  "nombre": "Melquíades",
+  "objetos": {
+    "$oid": "682cbdeb63ff78cd8d87ac20"
+  }
+},
+{
+  "_id": {
+    "$oid": "682cc85d63ff78cd8d87ac5c"
+  },
+  "nombre": "Pilar Ternera",
+  "pareja": [
+    {
+      "$oid": "682cc85d63ff78cd8d87ac4a"
+    },
+    "682cc85d63ff78cd8d87ac4b"
+  ],
+  "hijos": [
+    {
+      "$oid": "682cc85d63ff78cd8d87ac4f"
+    },
+    {
+      "$oid": "682dec80473716f4b42cc07b"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "682de82f473716f4b42cc071"
+  },
+  "nombre": "17 hijos de Aureliano",
+  "integrantes": [
+    {
+      "$oid": "68372b70f63c361a768ed658"
+    },
+    {
+      "$oid": "68372b70f63c361a768ed659"
+    },
+    {
+      "$oid": "68372b70f63c361a768ed65a"
+    },
+    {
+      "$oid": "68372b70f63c361a768ed65b"
+    },
+    {
+      "$oid": "68372b70f63c361a768ed65c"
+    },
+    {
+      "$oid": "68372b70f63c361a768ed65d"
+    },
+    {
+      "$oid": "68372b70f63c361a768ed65e"
+    },
+    {
+      "$oid": "68372b70f63c361a768ed65f"
+    },
+    {
+      "$oid": "68372b70f63c361a768ed660"
+    },
+    {
+      "$oid": "68372b70f63c361a768ed661"
+    },
+    {
+      "$oid": "68372b70f63c361a768ed662"
+    },
+    {
+      "$oid": "68372b70f63c361a768ed663"
+    },
+    {
+      "$oid": "68372b70f63c361a768ed664"
+    },
+    {
+      "$oid": "68372b70f63c361a768ed665"
+    },
+    {
+      "$oid": "68372b70f63c361a768ed666"
+    },
+    {
+      "$oid": "68372b70f63c361a768ed667"
+    },
+    {
+      "$oid": "68372b70f63c361a768ed668"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "682de82f473716f4b42cc072"
+  },
+  "nombre": "Soldados"
+},
+{
+  "_id": {
+    "$oid": "682de82f473716f4b42cc074"
+  },
+  "nombre": "Trabajadores bananeros"
+},
+{
+  "_id": {
+    "$oid": "682de82f473716f4b42cc075"
+  },
+  "nombre": "Gobierno"
+},
+{
+  "_id": {
+    "$oid": "682de82f473716f4b42cc076"
+  },
+  "nombre": "Compañía Bananera",
+  "objetos": {
+    "$oid": "682cbdeb63ff78cd8d87ac1e"
+  }
+},
+{
+  "_id": {
+    "$oid": "682dec80473716f4b42cc07c"
+  },
+  "nombre": "Petra Cotes",
+  "generación": 4,
+  "pareja": {
+    "$oid": "682cc85d63ff78cd8d87ac53"
+  },
+  "objetos": {
+    "$oid": "6846590c66b47792475d6337"
+  }
+},
+{
+  "_id": {
+    "$oid": "682dec80473716f4b42cc07e"
+  },
+  "nombre": "Gastón",
+  "generación": 5,
+  "pareja": {
+    "$oid": "682cc85d63ff78cd8d87ac58"
+  }
+},
+{
+  "_id": {
+    "$oid": "682dec80473716f4b42cc082"
+  },
+  "nombre": "Nigromanta",
+  "generación": 5,
+  "pareja": {
+    "$oid": "682cc85d63ff78cd8d87ac57"
+  }
+},
+{
+  "_id": {
+    "$oid": "68372b70f63c361a768ed658"
+  },
+  "nombre": "Aureliano 1",
+  "generación": 3,
+  "cola_de_cerdo": false
+},
+{
+  "_id": {
+    "$oid": "68372b70f63c361a768ed659"
+  },
+  "nombre": "Aureliano 2",
+  "generación": 3,
+  "cola_de_cerdo": false
+},
+{
+  "_id": {
+    "$oid": "68372b70f63c361a768ed65a"
+  },
+  "nombre": "Aureliano 3",
+  "generación": 3,
+  "cola_de_cerdo": false
+},
+{
+  "_id": {
+    "$oid": "68372b70f63c361a768ed65b"
+  },
+  "nombre": "Aureliano 4",
+  "generación": 3,
+  "cola_de_cerdo": false
+},
+{
+  "_id": {
+    "$oid": "68372b70f63c361a768ed65c"
+  },
+  "nombre": "Aureliano 5",
+  "generación": 3,
+  "cola_de_cerdo": false
+},
+{
+  "_id": {
+    "$oid": "68372b70f63c361a768ed65d"
+  },
+  "nombre": "Aureliano 6",
+  "generación": 3,
+  "cola_de_cerdo": false
+},
+{
+  "_id": {
+    "$oid": "68372b70f63c361a768ed65e"
+  },
+  "nombre": "Aureliano 7",
+  "generación": 3,
+  "cola_de_cerdo": false
+},
+{
+  "_id": {
+    "$oid": "68372b70f63c361a768ed65f"
+  },
+  "nombre": "Aureliano 8",
+  "generación": 3,
+  "cola_de_cerdo": false
+},
+{
+  "_id": {
+    "$oid": "68372b70f63c361a768ed660"
+  },
+  "nombre": "Aureliano 9",
+  "generación": 3,
+  "cola_de_cerdo": false
+},
+{
+  "_id": {
+    "$oid": "68372b70f63c361a768ed661"
+  },
+  "nombre": "Aureliano 10",
+  "generación": 3,
+  "cola_de_cerdo": false
+},
+{
+  "_id": {
+    "$oid": "68372b70f63c361a768ed662"
+  },
+  "nombre": "Aureliano 11",
+  "generación": 3,
+  "cola_de_cerdo": false
+},
+{
+  "_id": {
+    "$oid": "68372b70f63c361a768ed663"
+  },
+  "nombre": "Aureliano 12",
+  "generación": 3,
+  "cola_de_cerdo": false
+},
+{
+  "_id": {
+    "$oid": "68372b70f63c361a768ed664"
+  },
+  "nombre": "Aureliano 13",
+  "generación": 3,
+  "cola_de_cerdo": false
+},
+{
+  "_id": {
+    "$oid": "68372b70f63c361a768ed665"
+  },
+  "nombre": "Aureliano 14",
+  "generación": 3,
+  "cola_de_cerdo": false
+},
+{
+  "_id": {
+    "$oid": "68372b70f63c361a768ed666"
+  },
+  "nombre": "Aureliano 15",
+  "generación": 3,
+  "cola_de_cerdo": false
+},
+{
+  "_id": {
+    "$oid": "68372b70f63c361a768ed667"
+  },
+  "nombre": "Aureliano 16",
+  "generación": 3,
+  "cola_de_cerdo": false
+},
+{
+  "_id": {
+    "$oid": "68372b70f63c361a768ed668"
+  },
+  "nombre": "Aureliano 17",
+  "generación": 3,
+  "cola_de_cerdo": false
+}]
